@@ -1,8 +1,0 @@
-[submodule "documentation.github.io"]
-	path = documentation.github.io
-	url = https://github.com/Konstanta-it-e4/documentation.github.io.git
-	branch = main
-[submodule "public"]
-	path = public
-	url = https://github.com/Konstanta-it-e4/documentation.github.io.git
-	branch = main
