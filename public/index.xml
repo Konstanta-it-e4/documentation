@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ERP4FOOD</title>
-    <link>http:/localhost/</link>
+    <link>https://documentation.github.io/</link>
     <description>Recent content on ERP4FOOD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 17:46:00 +0300</lastBuildDate><atom:link href="http:/localhost/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 17:46:00 +0300</lastBuildDate><atom:link href="https://documentation.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http:/localhost/commoninformation/contractor/contractor/</link>
+      <link>https://documentation.github.io/commoninformation/contractor/contractor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http:/localhost/commoninformation/contractor/contractor/</guid>
+      <guid>https://documentation.github.io/commoninformation/contractor/contractor/</guid>
       <description>Контрагенты Справочник &amp;ldquo;Контрагенты&amp;rdquo; содержит информацию обо всех клиентах компании.
 Элементы справочника могут быть заполнены вручную или загружены по ИНН или наименованию (если подключена интернет поддержка и установлен признак &amp;ldquo;Автоматически проверять контрагентов по ЕГРН&amp;rdquo;).
 Вкладка &amp;ldquo;Основное&amp;rdquo;
@@ -22,10 +22,10 @@
     
     <item>
       <title></title>
-      <link>http:/localhost/commoninformation/deliverypoint/deliverypoint/</link>
+      <link>https://documentation.github.io/commoninformation/deliverypoint/deliverypoint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http:/localhost/commoninformation/deliverypoint/deliverypoint/</guid>
+      <guid>https://documentation.github.io/commoninformation/deliverypoint/deliverypoint/</guid>
       <description>Точки доставки В справочнике &amp;ldquo;Точки доставки&amp;rdquo; указываются торговые точки клиента, до которых будет осуществляться доставка.
 Вкладка &amp;ldquo;Основное&amp;rdquo;
 Наименование Дополнительная информация Контрагент Регион КПП Менеджер Контактная информация (адрес и телефон) Вкладка &amp;ldquo;Логистика&amp;rdquo;
@@ -39,10 +39,10 @@
     
     <item>
       <title></title>
-      <link>http:/localhost/commoninformation/department/department/</link>
+      <link>https://documentation.github.io/commoninformation/department/department/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http:/localhost/commoninformation/department/department/</guid>
+      <guid>https://documentation.github.io/commoninformation/department/department/</guid>
       <description>Подразделения Справочник &amp;ldquo;Подразделения&amp;rdquo; предназначен для хранения списков подразделений.
 Наименование Родитель - группа подразделений График работы Обособленное подразделение Если у подразделения установлен признак обособленности, то в карточке подразделения отображается вкладка &amp;ldquo;Информация&amp;rdquo; и доступны к заполнению реквизиты, которые указываются в печатных формах для грузоотправителя.
 Вкладка &amp;ldquo;Информация&amp;rdquo;
@@ -53,10 +53,10 @@
     
     <item>
       <title></title>
-      <link>http:/localhost/commoninformation/documentsofindividuals/documentsofindividuals/</link>
+      <link>https://documentation.github.io/commoninformation/documentsofindividuals/documentsofindividuals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http:/localhost/commoninformation/documentsofindividuals/documentsofindividuals/</guid>
+      <guid>https://documentation.github.io/commoninformation/documentsofindividuals/documentsofindividuals/</guid>
       <description>Документы физических лиц Документы физических лиц создаются из карточки физического лица, это могут быть доверенности, паспорта, водительские удостоверения или иные документы. Виды документов задаются в справочнике &amp;ldquo;Виды документов физических лиц&amp;rdquo;. В системе есть предопределенные виды: Водительское удостоверение, Доверенность, Паспорт гражданина РФ.
 Виды документов физических лиц задаются справочнике, который расположен в разделе &amp;ldquo;Нормативно справочная информация&amp;rdquo; - &amp;ldquo;Компания&amp;rdquo;
 Предопределенные виды документов физических лиц:
@@ -66,19 +66,19 @@
     
     <item>
       <title></title>
-      <link>http:/localhost/commoninformation/holding/holding/</link>
+      <link>https://documentation.github.io/commoninformation/holding/holding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http:/localhost/commoninformation/holding/holding/</guid>
+      <guid>https://documentation.github.io/commoninformation/holding/holding/</guid>
       <description>Холдинги Справочник &amp;ldquo;Холдинги&amp;rdquo; содержит информацию о крупных компаниях, которые имеют несколько дочерних компаний, и предназначен для хранения иерархии партнеров. Подробная информация о дочерних компаниях холдинга указывается в справочнике &amp;ldquo;Контрагенты&amp;rdquo;.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http:/localhost/commoninformation/kindofnomenclature/kindofnomenclature/</link>
+      <link>https://documentation.github.io/commoninformation/kindofnomenclature/kindofnomenclature/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http:/localhost/commoninformation/kindofnomenclature/kindofnomenclature/</guid>
+      <guid>https://documentation.github.io/commoninformation/kindofnomenclature/kindofnomenclature/</guid>
       <description>Виды номенклатуры Справочник &amp;ldquo;Виды номенклатуры&amp;rdquo; предназначен для группировки продаваемых товаров по ассортименту. Виды номенклатуры объединяют номенклатуру по общим признакам учета, таким как учет по характеристикам и сериям.
 Вкладка &amp;ldquo;Основное&amp;rdquo;
 Группа видов номенклатуры Наименование Использование характеристик : индивидуальные для номенклатуры, общие для вида номенклатуры Использование серий Вариант нумерации серий: по номенклатуре в пределах дня, по номенклатуре в пределах года Использование упаковок: индивидуальный набор, общий набор Единица хранения Вкладка &amp;ldquo;Производство&amp;rdquo;

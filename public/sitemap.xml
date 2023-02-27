@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http:/localhost/</loc>
+    <loc>https://documentation.github.io/</loc>
     <lastmod>2023-02-20T17:46:00+03:00</lastmod>
   </url><url>
-    <loc>http:/localhost/commoninformation/</loc>
+    <loc>https://documentation.github.io/commoninformation/</loc>
     <lastmod>2023-02-20T17:46:00+03:00</lastmod>
   </url><url>
-    <loc>http:/localhost/commoninformation/barcodelabels/barcodelabelsproduct/</loc>
+    <loc>https://documentation.github.io/commoninformation/barcodelabels/barcodelabelsproduct/</loc>
     <lastmod>2023-02-20T17:38:19+03:00</lastmod>
   </url><url>
-    <loc>http:/localhost/commoninformation/barcodelabels/</loc>
+    <loc>https://documentation.github.io/commoninformation/barcodelabels/</loc>
     <lastmod>2023-02-20T17:38:19+03:00</lastmod>
   </url><url>
-    <loc>http:/localhost/commoninformation/barcodelabels/barcodelabelsbox/</loc>
+    <loc>https://documentation.github.io/commoninformation/barcodelabels/barcodelabelsbox/</loc>
     <lastmod>2023-02-20T17:36:58+03:00</lastmod>
   </url><url>
-    <loc>http:/localhost/customerservice/</loc>
+    <loc>https://documentation.github.io/customerservice/</loc>
   </url><url>
-    <loc>http:/localhost/commoninformation/barcodelabels/barcodelabelspallete/</loc>
+    <loc>https://documentation.github.io/commoninformation/barcodelabels/barcodelabelspallete/</loc>
     <lastmod>2023-02-20T17:37:51+03:00</lastmod>
   </url><url>
-    <loc>http:/localhost/commoninformation/businessregion/</loc>
+    <loc>https://documentation.github.io/commoninformation/businessregion/</loc>
   </url><url>
-    <loc>http:/localhost/commoninformation/container/</loc>
+    <loc>https://documentation.github.io/commoninformation/container/</loc>
   </url><url>
-    <loc>http:/localhost/commoninformation/contractor/contractor/</loc>
+    <loc>https://documentation.github.io/commoninformation/contractor/contractor/</loc>
   </url><url>
-    <loc>http:/localhost/commoninformation/deliverypoint/deliverypoint/</loc>
+    <loc>https://documentation.github.io/commoninformation/deliverypoint/deliverypoint/</loc>
   </url><url>
-    <loc>http:/localhost/commoninformation/department/department/</loc>
+    <loc>https://documentation.github.io/commoninformation/department/department/</loc>
   </url><url>
-    <loc>http:/localhost/commoninformation/documentsofindividuals/documentsofindividuals/</loc>
+    <loc>https://documentation.github.io/commoninformation/documentsofindividuals/documentsofindividuals/</loc>
   </url><url>
-    <loc>http:/localhost/commoninformation/holding/holding/</loc>
+    <loc>https://documentation.github.io/commoninformation/holding/holding/</loc>
   </url><url>
-    <loc>http:/localhost/commoninformation/kindofnomenclature/kindofnomenclature/</loc>
+    <loc>https://documentation.github.io/commoninformation/kindofnomenclature/kindofnomenclature/</loc>
   </url><url>
-    <loc>http:/localhost/categories/</loc>
+    <loc>https://documentation.github.io/categories/</loc>
   </url><url>
-    <loc>http:/localhost/tags/</loc>
+    <loc>https://documentation.github.io/tags/</loc>
   </url>
 </urlset>
